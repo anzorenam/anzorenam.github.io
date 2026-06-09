@@ -1,0 +1,7 @@
+#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+
+* El nervio del volcán
+:PROPERTIES:
+:EXPORT_FILE_NAME: nervio_volcan
+:EXPORT_DATE: 2026-01-05
+:END:

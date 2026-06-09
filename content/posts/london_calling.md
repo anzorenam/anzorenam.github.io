@@ -1,0 +1,36 @@
++++
+title = "London calling"
+author = ["M. Anzorena"]
+date = 2024-11-10
+draft = false
++++
+
+Uno no se convierte en un verdadero adolescente hasta que escucha a Marx.
+A mi me lo recetaron en un empaque mejorado; en dosis pequeñas e inofensivas durante varios años escuchando la radio y viendo MTV.
+Lo veía en los ojos de Zach de la Rocha y lo escuchaba en los discos de At the drive-In que tanto atesoraba.
+El punk en su más pura concepción era ateo, anárquico y revolucionario; y yo lo amaba.
+
+Lo curioso es que yo no entendía las letras (no hablaba ingles a mis 15 años) y realmente nunca había sido víctima de las injusticias de la vida;
+pero en algo me identificaba en su lucha por los más desprotegidos ("self-proclaimed") y su atuendo poco ortodoxo.
+Era un producto bien manufacturado, que prometía expresar las frustraciones de las clases menos privilegiadas y la ira y resentimiento de los abandonados.
+
+Y así comienza el éxodo por el desierto hasta llegar a la Tierra prometida.
+
+En la Universidad (Nacional Autónoma, etc) mi amor por Marx creció.
+Poco a poco, las clases de historia me presentaron a los grandes héroes de nuestra modernidad.
+Vi su lucha, su causa y sus logros; y cómo a través de nuestro esfuerzo estudiantil podíamos escribir el siguiente capitulo.
+
+Durante mi vida como estudiante de posgrado mi "revolución" se intensificó.
+Estaba cada vez más convencido de haber encontrado el origen de todos los problemas y de ver su solución próxima a través de la sabiduría de un líder "auto-iluminado".
+
+¿A dónde lleva el camino de todas las revoluciones?
+
+La ironía es que los hombres de cabello largo y rebeldes, poco rasurados y con pantalones rotos; que gritan con enojo sus frustraciones en el escenario todos los crímenes
+del hombre poderoso y despiadado, son productos puestos por los hombres poderosos para el consumo del adolescente.
+Al mismo tiempo esta gente controla la industria de la música, la moda y las drogas; y lo mezcla todo en un delicioso caldo de pollo y frustraciones para el alma.
+Visto desde este punto: Britney Spears resulta igual de profunda que Kurt Cobain (aclaro, no hablo de sus talento musical).
+
+Para mi desgracia, permanecí atrapado por estas inconsistencias durante un muy largo periodo de tiempo. Mi escatología era mundana y "over-realized"
+(esperaba ver demasiado cielo en esta Tierra).
+Durante mucho tiempo luché sin éxito por librarme de estas doctrinas, peleando la batalla con las ideas externas; sin darme cuenta que es en el interior donde la maldad se encuentra.
+Fue el Santo Espíritu de Dios, obrando a través de la Palabra, quien trajo paz a mi mente después de tantos años de rebeliones y búsquedas infructuosas.
