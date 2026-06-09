@@ -1,0 +1,74 @@
++++
+title = "For whom the bells are ringing out?"
+author = ["M. Anzorena"]
+date = 2026-01-05
+draft = false
++++
+
+Separado de ti nada puedo hacer. Tu eres la vid verdadera.
+La adolescencia es un  golpe duro al ego y a los sentidos.
+De repente uno es un niño y se preocupa por jugar, alimentarse; al otro día despiertan pasiones y sensaciones.
+
+En nuestro cuerpo la sexualidad es un impulso cuyo combustible es la supervivencia.
+Como todo impulso, puede ser regulado (domado) por nuestros principios morales, transmitidos a través de la sociedad y/o familia.
+Es decir, la razón somete al cuerpo en busca de un fin o propósito.
+Aún siendo niños aprendemos que en nuestra búsqueda por alimento, sueño o diversión, el mundo que nos rodea establece los limites y sus normas.
+En palabras simples: los adultos enseñan a los niños a controlar sus deseos por el bien suyo y de los demás.
+A esto llamamos educación (aunque esta visión de la educación de un niño no es tan popular en la época moderna), y claro, nadie dice que el proceso de educación sea sencillo.
+
+El proceso formativo de un individuo debería seguir casi hasta su edad adulta, cuando uno se vuelve independiente.
+No obstante, las reglas en la adolescencia cambian.
+
+En la época que yo pase de niño a adolescente, la influencia que ejercía la televisión y el radio en mi conducta era muy notable.
+Artistas y pensadores adoctrinaban con sus ideales de conducta y sus principios morales a los jóvenes de esa época.
+Hoy en día lo siguen haciendo, aunque los medios a través de los que ocurre este fenómeno son distintos.
+Aclaro, no creo que haya ninguna conspiración humana detrás de este proceso, solo hombres justificando sus acciones, expresando sus sentimientos y luchando
+con aquello que ellos consideran injusto en el mundo.
+Aparentemente buenas intenciones, pero limitados en nuestro entendimiento, es imposible entender las consecuencias de discursos tan sonoros.
+Día y noche taladrando en el cerebro las supuestas libertades.
+Drogas y sexo, hedonismo puro; anarquía, existencialismo y nihilismo. Me enseñaron a odiar la vida antes de amarla y odiar todo aquello que tenia virtud.
+
+Al leerme alguien tal vez diga, simplemente se ha vuelto un viejo de pensamiento: un conservador más.
+Pero la realidad es que mi pensamiento ha nacido de haberme visto perdido en la oscuridad, de haber bebido el licor embriagante de este mundo y encontrarlo amargo.
+
+Las industrias de la pornografía y las drogas son dos de las más rentables empresas de la sociedad moderna.
+Esclavizan personas, matan y pasan por encima del derecho de cualquiera; y aun así, si eras un pequeño creciendo en los noventas, no parabas de escuchar como estas
+industrias se promocionaban en nuestra música, películas y programas televisivos.
+Placer sin culpas.
+
+Hay una realidad difícil de entender para el hombre moderno: el descubrimiento del placer sexual nubla la razón.
+De acuerdo a la neurociencia, la actividad sexual libera en nuestro cuerpo poderosos químicos, adictivos como cualquier otra droga sintética.
+Y la adicción a cualquier cosa, desmedida, siempre extrae lo peor de la condición humana.
+Incluso si alguien lo considera un mito, es revelador pensar que el rey David (un hombre descrito en todo lo demás como justo) mato a alguien por deseo sexual.
+
+No quiero desvirtuar lo virtuoso del sexo, no quiero pretender que los seres humanos no somos sexuales por naturaleza.
+No quiero desvirtuar la intimidad entre dos personas, ni siquiera pretendo analizar lo que alguien hace en su libre decisión.
+Pero vamos construyendo una capa muy gruesa que no nos permite ver la crisis en la que vivimos.
+Una coraza que cubre nuestras emociones en hedonismo, con la promesa de placer pero nunca felicidad.
+
+En concreto, la sociedad es adicta al sexo.
+Y los jóvenes crecemos sin educación de como controlar nuestros deseos.
+O más bien esa es la educación, no controlarnos, porque nada nos debe de detener en la búsqueda de nuestros deseos.
+Una bomba de tiempo en el corazón de cualquier hombre.
+
+Recuerdo una navidad hace muchos años, solo en mi cuarto.
+Mi corazón intoxicado de lujuria, no podía más.
+Los demás cenando en el comedor o charlando en la sala, mientras yo moría por dentro del deseo.
+Lloro al recordar ese día, en donde la inocencia de las fiestas familiares se veía oscurecida por mi pecado.
+Aunque creía que la Navidad era especial, no entendía su significado.
+
+La solución a nuestro dolor, a alguien se le ocurrió; matar a Cristo y a nuestras conciencias.
+Porque bajo cierta mirada la maldad es solo un espejismo, una serie de barreras que definimos arbitrariamente y que nos hacen infelices.
+No existe el mal como objeto, solo la proyección de nuestra Razón.
+Pero eso no elimina la maldad, solo hace más difusa y difícil de percibir su definición.
+Aún seguimos siendo brutalmente golpeados por sus consecuencias, afligidos por su operación y (ahora en la modernidad) más solos y desesperados que nunca.
+Nietzsche pretendió matar a Dios hace casi dos siglos y no ha desaparecido el fétido aroma de la corrupción humana.
+La maldad sigue apilándose en nuestro mundo, muerte y destrucción son nuestra cosecha.
+
+Pero el hijo de Dios vino ha deshacer las obras del mal, a rescatar lo que se había perdido y a aplastar la cabeza de la serpiente.
+El hijo de Dios vino a traer el amanecer en lo más profundo de nuestras tinieblas.
+En la carne, tomó todos nuestros pecados y soportó la ira del Dios vivo: en la cruz fue maldito, pero resucito.
+
+Separado de ti oh mi Cristo, nada puedo hacer.
+Tu eres la vid verdadera.
+Tu nos escogiste y no nosotros a ti.

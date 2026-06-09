@@ -1,10 +1,9 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
-
-* The Unforgiven
-:PROPERTIES:
-:EXPORT_FILE_NAME: unforgiven
-:EXPORT_DATE: 2025-12-17
-:END:
++++
+title = "The Unforgiven"
+author = ["M. Anzorena"]
+date = 2025-12-17
+draft = false
++++
 
 Fue a la tierna edad de diecinueve años cuando recibí mi primer estudio bíblico serio.
 A pesar de llevar toda mi vida en medio de una familia cristiana, platicando y discutiendo acerca de la biblia, y a pesar de haber crecido asistiendo todos los domingos

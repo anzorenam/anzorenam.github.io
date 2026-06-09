@@ -1,0 +1,70 @@
+#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+
+* Of Proton decays and God
+:PROPERTIES:
+:EXPORT_FILE_NAME: proton_decays
+:EXPORT_DATE: 2026-02-05
+:END:
+
+La inducción matemática es un concepto simple pero muy poderoso.
+Supongamos que nuestro objetivo es demostrar una cierta proposición matemática.
+El primer paso es demostrar si esta proposición se cumple para un caso particular.
+Posteriormente, trataremos de demostrar lo mismo en otros casos, buscando una generalización de la proposición hasta finalmente demostrar que se cumple para todos los números.
+Por supuesto, esta es una descripción muy burda de la inducción matemática, así que antes de recibir duras criticas por no dar una descripción rigurosa;
+tengan en mente que es solo una breve introducción para poder abordar el concepto.
+
+A pesar de su simplicidad, la inducción matemática se utiliza ampliamente en todas las disciplinas de las Matemáticas para realizar demostraciones más complejas y sofisticadas.
+Luego entonces, la inducción sirve como punto de partida para el matemático.
+
+No obstante de estas claras ventajas, la aplicación del método inductivo en las ciencias naturales tiene limitaciones.
+Esto se debe a la naturaleza abstracta y un tanto ideal de los números, características que no corresponden con en el mundo físico.
+Por otro lado, en algunas circunstancias, la inducción no solo es la mejor herramienta, sino la única disponible.
+
+Plantemos un ejemplo más claro. Supongamos que deseamos establecer las características de algún grupo de objetos que observamos en la naturaleza.
+Tomando como base el proceso de inducción, nuestro primer objetivo será caracterizar un elemento del conjunto de todos los elementos y posteriormente plantear nuestras
+conclusiones sobre el fenómeno.
+Como en el caso matemático, la verificación de un caso particular no es suficiente, por lo que debemos seguir acumulando observaciones hasta agotar el conjunto de elementos.
+Es decir, debemos de estudiar de manera exhaustiva todo los elementos, buscando que nuestra caracterización y descripción de los mismos sea cada vez más general.
+El problema entonces es: ¿podemos estudiar de manera exhaustiva (observar todos los casos) todos los fenómenos naturales?
+
+Agotar todas las posibles formas en que se presenta un fenómeno es imposible en ocasiones, lo cual genera que los científicos tengan que recurran a la intuición;
+basada principalmente en la probabilidad de ocurrencia, conocimiento de los procesos involucrados y ciertas suposiciones metafísicas (creencias).
+La descripción de este proceso no debe asustarnos, simplemente muestra a la ciencia como una empresa humana.
+
+En la era actual, esta limitante sistemática de la investigación origina discusiones interesantes sobre el futuro de la ciencia.
+A veces, la búsqueda del conocimiento choca de frente con la idea del progreso (económico) de la sociedad.
+
+Desde la segunda parte del siglo XX (después de la segunda guerra mundial) ha sido más claro que nunca que el progreso económico de una sociedad está correlacionado
+con su evolución científica y tecnológica.
+Luego entonces, el interés general de la sociedad por el progreso científico ha aumentado; propiciando con ello una mayor inversión de recursos humanos y capital,
+llevándonos a un avance general del conocimiento.
+No obstante, las preguntas fundamentales que hoy intenta responder la ciencia aún son muy complejas, requiriendo de la sociedad una mayor inversión de recursos
+y planificación para realizar experimentos cada vez más complejos y precisos.
+Tomando en cuenta este escenario, muchos políticos y personalidades del internet cuestionan al aparato científico por su aparente avaricia y falta de visión/avances.
+
+De frente a esta situación, la intención de mi texto no es defender el aparato científico (el cual puede ser muy cuestionable), sino defender la búsqueda de la ciencia.
+Pongo por ejemplo uno de los proyectos importantes de nuestra era, el Hyper-Kamiokande; buscando detectar por primera vez uno de los fenómenos más exóticos de la naturaleza,
+el decaimiento del protón.
+
+No voy a profundizar en que es el decaimiento del Protón (este no es el sitio para hacer eso), pero si quiero dejar claro que su detección
+(suponiendo la existencia de este fenómeno) seria uno de los más grandes descubrimientos de la historia, transformando nuestro entendimiento de la naturaleza.
+Por supuesto: detectar protones que decaen (como lo hacen otras partículas) es extremadamente difícil.
+Siendo honestos, desde la década de los ochenta experimentos similares han buscado sin éxito ver protones decayendo.
+En cada iteración; la complejidad, precisión, costo y recursos humanos incrementan.
+Luego entonces, vale preguntar: ¿cuando podremos estar seguros si el fenómeno existe o no?, ¿no sera simplemente que estamos manteniendo una clase privilegiada que usa
+como pretexto la investigación para seguir financiando sus proyectos? o ¿por que la ciencia parece no avanzar, si el grado de inversión no disminuye?
+
+Todas son preguntas validas, pero a ninguna puedo dar respuesta.
+A todas y cada debe ser analizada por la sociedad en función de los costos y beneficios; y tal vez los científicos solo debemos conformarnos con la decisión.
+Pero hay una pregunta que usted lector de este texto si puede contestar, si he logrado expresar la idea que intento con respecto al proceso de inducción y la pregunta es:
+¿debe nuestra búsqueda del fenómeno continuar?
+Espero que su respuesta sea igual que la mía, un firme si, al comprender que en nuestra búsqueda del conocimiento nunca lograremos agotar las evidencias
+(a menos que demostremos por otros medios que algo no existe) y solo podemos irnos acercando tangencialmente a la verdad.
+Ese es el compromiso que tenemos, si queremos conocer este mundo y no dejar fuera por nuestros prejuicios la posibilidad de lo desconocido.
+
+Si esta visión de la ciencia nos parece costosa y fuera de sentido, debemos comprender que tal vez no estamos buscando el conocimiento, sino la prosperidad económica.
+
+Quiero concluir este texto con una observación en forma de consejo.
+Cuando algún supuesto científico se acerque a usted diciéndole que la ciencia ha comprobado la inexistencia de un Dios creador,
+mire a aquella persona con toda sospecha; pues la misma no ha comprendido las características de su disciplina, ni las de sus sentidos o de su especie.
+Posteriormente siga la conversación con toda cautela.

@@ -1,10 +1,9 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
-
-* El nervio del volcán
-:PROPERTIES:
-:EXPORT_FILE_NAME: nervio_volcan
-:EXPORT_DATE: 2026-01-05
-:END:
++++
+title = "El nervio del volcán"
+author = ["M. Anzorena"]
+date = 2026-01-05
+draft = false
++++
 
 Me tarde treinta años en hacerlo, pero he decidido abordar el tema.
 Y me tarde en abordar el tema no solo por su complejidad, sino porque literalmente era un niño cuando por primera vez fui expuesto a él.
