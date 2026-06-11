@@ -1,0 +1,9 @@
+#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+
+* God gave me everything (a warning)
+:PROPERTIES:
+:EXPORT_FILE_NAME: god_gave_everything
+:EXPORT_DATE: 2026-06-09
+:END:
+
+Con la llegada del milenio, yo llegue a la Escuela Nacional Preparatoria.
