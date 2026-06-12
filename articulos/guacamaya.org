@@ -1,4 +1,3 @@
-
 #+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
 
 * Pobre guacamaya
