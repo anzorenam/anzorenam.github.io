@@ -1,0 +1,47 @@
+#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+
+* Like Feynman preaching history
+:PROPERTIES:
+:EXPORT_FILE_NAME: feynman_history
+:EXPORT_DATE: 2026-02-26
+:END:
+
+La ciencia es la empresa humana que intenta establecer mediante argumentos lógicos y ordenados las principios que dan origen a los fenómenos naturales y sociales que observamos.
+Las teorías deben ser rigurosas y capaces de explicar los diversos aspectos asociados a un fenómeno dado.
+La argumentación lógica de ideas posee una cualidad estética innegable, similar a la del arte.
+No obstante, a pesar de la belleza de la argumentación; las teorías deben ser probadas a través de experimentos y a través de experimentos establecer su factibilidad.
+
+La historia de la raza humana es un tema interesante para tratar desde un punto de vista científico, aunque bastante complejo.
+En la Historia nuestra encomienda es recolectar la cantidad innumerable de información que nuestra especie ha generado durante su estancia en el planeta,
+mientras tratamos de modelar las causas y efectos de dichos acontecimientos.
+Una tarea colosal.
+
+San Agustin de Hipona hace un intento de establecer una teología/filosofía de la historia en su obra La ciudad de Dios, tomando como base el razonamiento y la cosmovisión cristiana,
+con el fin de encontrar el cause de la historia.
+Siglos más tarde, Karl Marx haría algo parecido, basándose en la concepción materialista del Universo.
+Siendo objetivos, ambos tratados son excelentes al ordenar y explicar el desarrollo de la historia y sus causas, es decir, son excelentes modelos históricos.
+No obstante, para lograr elevarlos al nivel de una teoría científica debemos ser capaces de controlar las variables y experimentar;
+al mismo tiempo que hacemos predicciones de cual puede ser el resultado y cuantificamos cuan bueno ha sido nuestro modelo.
+Solo después de este riguroso análisis podemos establecer la validez científica de una filosofía de la Historia
+
+Dado que la Historia no es una ciencia que desarrollemos en el laboratorio, pareciera demasiado riguroso (o incluso ingenuo) proponer que debe haber experimentación,
+control de variables y predicciones para validar un paradigma.
+Esta percepción es falsa, pues el laboratorio de la Historia es la sociedad humana sujeta al tiempo.
+Luego entonces, los resultados del experimento se darán con el flujo natural de los eventos.
+Es decir, los datos con los que podemos probar los modelos históricos se presentan en el futuro no inmediato, y en algunos casos, tal vez  haya que esperar siglos para obtenerlos.
+En consecuencia, la Historia como ciencia no es rápida.
+
+Es importante enfatizar que, a pesar de la falta de cercanía, no debemos evadir la responsabilidad de eliminar paradigmas históricos una vez que se han acumulado suficientes
+evidencias en su contra.
+En este paso no debe importar que la idea que desechemos sea elegante (que tenga cualidades estéticas) o que sea brillante al explicar los problemas de la sociedad
+en un punto particular del tiempo.
+Si una teoría asegura que ocurrirán un conjuntos de eventos, y que estos eventos ocurrirán una vez que se cumplan ciertas características a su alrededor;
+si el conjunto de eventos (la predicción) nunca se observa, la teoría es falsa.
+
+A esta conclusión debemos llegar si somos honestos y estamos comprometidos con la verdad (el conocimiento real).
+El problema con el que a veces nos enfrentamos los seres humanos (científicos, estudiantes de la ciencia y en general), es que estamos más comprometidos
+con el valor estético de las ideas (por ejemplo su simpleza para explicar fenómenos contemporáneos) que con la verdad.
+Así, en nuestros días permanecen con vida algunas ideas, sin haber nunca experimentado la verdad en éstas; y nos volvemos esclavos del instrumento,
+en vez de que el instrumento nos permita avanzar en nuestro entendimiento.
+
+La verdad (tangible) no tiene esta característica, pues hace esclavo a nadie, sino más bien libres, e invita a todos a conocerla; solo hay que ser honestos y estar comprometidos en buscarla.
