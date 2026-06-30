@@ -1,10 +1,9 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
-
-* Alfonso I
-:PROPERTIES:
-:EXPORT_FILE_NAME: alfonso_p01.org
-:EXPORT_DATE: 2026-05-29
-:END:
++++
+title = "Alfonso I"
+author = ["M. Anzorena"]
+date = 2026-05-29
+draft = false
++++
 
 Era Alfonso el hijo más pequeño de un esclavo.
 Y como su padre esclavo, Alfonso era miserable; aunque tan solo era solo un niño pequeño.
