@@ -1,4 +1,11 @@
-*.elc
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Emacs
 *~
-.#*
-auto-save-list
+\#*\#
+.\#*
+.elc
+auto-save-list/
