@@ -6,7 +6,6 @@
 :export_date: 2025-10-16
 :end:
 
-
 Traducir un texto de un idioma a otra es una tarea compleja.
 A veces la traducción conlleva la pérdida de estructuras gramaticales o a falta de claridad.
 A veces esta situación se agrava, poniendo en dos extremos de una balanza la claridad y la calidad de la traducción.

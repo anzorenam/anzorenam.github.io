@@ -1,10 +1,10 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+#+hugo_base_dir: ~/Documentos/ryojin_desu
 
 * All traditions are bound to die
-:PROPERTIES:
-:EXPORT_FILE_NAME: all_traditions_are_bound
-:EXPORT_DATE: 2024-05-08
-:END:
+:properties:
+:export_file_name: all_traditions_are_bound
+:export_date: 2024-05-08
+:end:
 
 Recientemente platicando con un amigo de Bolivia llegamos a la conclusion de que todas las tradiciones están condenadas a morir.
 Para poner un poco de contexto, mi amigo estaba preocupado porque, al regresar a su pueblo, había notado con horror que los jóvenes encargados del pastoreo
@@ -53,6 +53,6 @@ Por decirlo en otras palabras, no es solo el hecho histórico del nacimiento (au
 Es la convicción de que lo que celebramos está relevado por Dios, y su palabra no puede estar equivocada.
 
 En la familia de mis padres hace muchos años dejamos de celebrar la Navidad por nuestra falta de firmeza.
-En su lugar celebramos "a la familia" para tratar de sostener las tradiciones familiares.
+En su lugar celebramos /a la familia/ para tratar de sostener las tradiciones familiares.
 Sin embargo, aunque me duele escribirlo, mis padres, mis hermanos y yo moriremos con nuestras tradiciones en algún futuro no muy lejano.
 No a si la Navidad.

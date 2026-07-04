@@ -5,11 +5,11 @@ date = 2025-08-11
 draft = false
 +++
 
-Estar consciente o ser conciente son dos cosas diferentes. Por un lado, la consciencia con "sc" representa el acto de estar despierto, estar vivo; de pensar.
+Estar _consciente_ o ser _conciente_ son dos cosas diferentes. Por un lado, la consciencia con _sc_ representa el acto de estar despierto, estar vivo; de pensar.
 Es la condición humana en la que percibimos el mundo a través de nuestros sentidos y opinamos acerca de los estímulos que recibimos.
 Aclaro, esta definición no es académica, pero creo que es clara.
 
-La conciencia (quitando la "s") es un estado superior. No solo involucra la recepción de estímulos y la expresión de nuestros pensamientos, sino que requiere establecer juicios sobre ellos.
+La conciencia (quitando la _s_) es un estado superior. No solo involucra la recepción de estímulos y la expresión de nuestros pensamientos, sino que requiere establecer juicios sobre ellos.
 En mi opinion, el acto más puro y elevado de la conciencia humana es la conciencia moral: nuestra capacidad de discernir entre el bien y el mal.
 Tal vez muchos Psicólogos y filósofos no estén de acuerdo con esta opinión, sin embargo, prefiero no hacerles caso.
 

@@ -52,6 +52,6 @@ Por decirlo en otras palabras, no es solo el hecho histórico del nacimiento (au
 Es la convicción de que lo que celebramos está relevado por Dios, y su palabra no puede estar equivocada.
 
 En la familia de mis padres hace muchos años dejamos de celebrar la Navidad por nuestra falta de firmeza.
-En su lugar celebramos "a la familia" para tratar de sostener las tradiciones familiares.
+En su lugar celebramos _a la familia_ para tratar de sostener las tradiciones familiares.
 Sin embargo, aunque me duele escribirlo, mis padres, mis hermanos y yo moriremos con nuestras tradiciones en algún futuro no muy lejano.
 No a si la Navidad.
