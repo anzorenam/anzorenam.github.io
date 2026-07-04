@@ -16,13 +16,17 @@ El Señor se acerco a Alfonso, lo vio temblando y tuvo misericordia de él: le r
 Al verla el niño sintió una alegría que estallaba en colores dentro de su corazón.
 Corrió y grito contento, sin saber que al frente de la moneda, una inscripción decía:
 
-¿No clama la sabiduría,
-Y alza su voz la inteligencia?
-En las alturas junto al camino,
-En  el entrada de la ciudad, da voces:
-Oh hombres, a vosotros clamo;
-Recibid mi enseñanza, y no plata;
-Y ciencia antes que oro.
+<div class="verse">
+
+_¿No clama la sabiduría,<br />
+Y alza su voz la inteligencia?<br />
+En las alturas junto al camino,<br />
+En  el entrada de la ciudad, da voces:<br />
+Oh hombres, a vosotros clamo;<br />
+Recibid mi enseñanza, y no plata;<br />
+Y ciencia antes que oro._<br />
+
+</div>
 
 El niño miro las letras, pero resultaron un misterio para él, pues en su miseria no podía leer.
 Aun así tuvo la moneda como tesoro y la guardo.

@@ -1,3 +1,8 @@
+.verse {
+    white-space: pre-wrap;
+    line-height: 1.1;
+    margin-left: 2em;
+}
 .post-content {
     text-align: justify;
     hyphens: auto;

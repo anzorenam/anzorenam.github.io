@@ -1,4 +1,8 @@
 theme="PaperMod"
 baseURL="https://anzorenam.github.io/"
-languageCode="es"
+defaultContentLanguage="es"
 title="りょじんです"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

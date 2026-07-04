@@ -31,16 +31,14 @@ Conectando con lo que mencioné al principio sobre la traducción de himnos, la 
 En particular, el texto que cita Spurgeon no se encuentra en la versión en español.
 El texto en cuestión es la tercera estrofa del himno (traducida torpemente por mi):
 
-<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
-
-<div class="org-center">
+<div class="verse">
 
 _Nada traigo en mis manos;<br />
 solo a la cruz me aferro;<br />
 tú que estás desnudo, ven a él para que te vista;<br />
 tú que estás desesperado, busca en él la gracia;<br />
 moribundo, corriendo voy a la fuente;<br />
-limpiame oh mi redentor o moriré._
+límpiame oh mi redentor o moriré._<br />
 
 </div>
 
@@ -48,15 +46,14 @@ La razón del porqué la versión en español no contiene la estrofa a mi parece
 Y especulo porque hay veces que la gracia de nuestro Dios a nuestros ojos parece tan inmensurable que nuestra humanidad no logra comprenderla en su profundidad;
 nos da temor y tratamos de esconderla.
 
-<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
+No obstante esta dificultad, la cuarta estrofa del himno en español me parece sublime:
 
-<div class="org-center">
+<div class="verse">
 
-_No obstante esta dificultad, la cuarta estrofa del himno en español me parece sublime:<br />
-Cuando vaya a responder<br />
+_Cuando vaya a responder<br />
 en Tu augusto tribunal,<br />
 se mi escondedero fiel,<br />
-Roca de la eternidad._
+Roca de la eternidad._<br />
 
 </div>
 
