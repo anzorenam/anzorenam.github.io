@@ -1,10 +1,10 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+#+hugo_base_dir: ~/Documentos/ryojin_desu
 
 * River of deceit
-:PROPERTIES:
-:EXPORT_FILE_NAME: river_of_deceit
-:EXPORT_DATE: 2025-09-03
-:END:
+:properties:
+:export_file_name: river_of_deceit
+:export_date: 2025-09-03
+:end:
 
 Leyendo al Doctor Martin Lloyd Jones encontré un concepto nuevo para mi: depresión espiritual.
 La existencia de esta condición es innegable; la he experimentado en persona y la he observado en otros creyentes.

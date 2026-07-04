@@ -1,10 +1,10 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+#+hugo_base_dir: ~/Documentos/ryojin_desu
 
 * London calling
-:PROPERTIES:
-:EXPORT_FILE_NAME: london_calling
-:EXPORT_DATE: 2024-11-10
-:END:
+:properties:
+:export_file_name: london_calling
+:export_date: 2024-11-10
+:end:
 
 Uno no se convierte en un verdadero adolescente hasta que escucha a /Marx/.
 A mi me lo recetaron en un empaque mejorado; en dosis pequeñas e inofensivas durante varios años escuchando la radio y viendo /MTV/.

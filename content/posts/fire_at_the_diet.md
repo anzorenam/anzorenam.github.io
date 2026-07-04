@@ -18,7 +18,7 @@ Una memoria antiquísima que nos conecta al jardín del Eden, cuando el creador 
 En esa memoria (como en el BIOS de una computadora), perduran nuestros conocimientos más puros sobre el carácter de Dios y nuestros ideales de justicia, amor y verdad.
 
 El 18 de Abril de 1521, Martin Lutero compadeció ante la Dieta imperial de Worms, haciendo un ejercicio de conciencia.
-El motivo de la dieta (del latín día --- diario) era llevar acabo una especie de juicio, en el cual a Lutero tenia la oportunidad de defenderse de los cargos
+El motivo de la dieta (del latín _día_ --- _diario_) era llevar acabo una especie de juicio, en el cual a Lutero tenia la oportunidad de defenderse de los cargos
 de hereje y arrepentirse de sus pensamientos (expresados en libros). No obstante de encontrarse rodeado de muchos de los hombres más sabios y poderosos del mundo,
 Lutero no se retractó; argumentando que su conciencia estaba cautiva por la palabra de Dios.
 

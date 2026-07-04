@@ -1,10 +1,10 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+#+hugo_base_dir: ~/Documentos/ryojin_desu
 
 * ... like a mother awakens her children from sleep
-:PROPERTIES:
-:EXPORT_FILE_NAME: like_a_mother
-:EXPORT_DATE: 2025-08-20
-:END:
+:properties:
+:export_file_name: like_a_mother
+:export_date: 2025-08-20
+:end:
 
 Tenia la tierna edad de 12 años cuando descendí a las aguas bautismales. Era un momento especial, así lo creí, ya que lo escuché cientos de veces de mi familia.
 Un día mi padre y madre, junto con mi hermano mayor. Poco tiempo después; mis demás hermanos, mis primos y tías.

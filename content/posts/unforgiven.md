@@ -22,7 +22,7 @@ Después de haber vivido los primeros años de la adolescencia sumergido en depr
 sucio y alejado de Dios.
 Leí aquellas paginas con asombro, al darme cuenta que el Apóstol estaba narrando mi condición:
 
-"Porque lo que hago, no lo entiendo; porque no practico lo que quiero hacer, sino que lo que aborrezco, eso hago"
+_Porque lo que hago, no lo entiendo; porque no practico lo que quiero hacer, sino que lo que aborrezco, eso hago_
 
 Luego entonces tenía que escuchar con mucha atención lo que el Pastor devalaba en su exposición, esperando encontrar por fin en sus palabras la solución de mi miseria.
 
@@ -51,7 +51,7 @@ La primera perspectiva sobre Romanos siete es la idea del hombre pasado.
 En esta explicación, Pablo no estaría hablando de su condición actual, proyectando su visión de como era su vida antes de conocer de Cristo Jesús.
 Luego entonces, Pablo está hablando de él como hombre carnal y sin fe, y la lucha que el expresa es porque aún no ha llegado a recibir la salvación.
 
-Profundizando un poco en la palabra de Dios es fácil descartar esta idea, principalmente porque Pablo habla de un "deseo" de hacer la voluntad de Dios.
+Profundizando un poco en la palabra de Dios es fácil descartar esta idea, principalmente porque Pablo habla de un _deseo_ de hacer la voluntad de Dios.
 Dado que el mismo Pablo aclara al inicio de la carta que el hombre carnal no tiene ningún deseo de conocer a Dios,
 es imposible que un hombre antes de conocer el camino de la verdad, tenga una lucha o un impulso por luchar contra el mal.
 El hombre sin Dios está muerto y eso mata la primera interpretación de los versículos.
