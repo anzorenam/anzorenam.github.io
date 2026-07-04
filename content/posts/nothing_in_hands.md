@@ -1,11 +1,9 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
-
-* Nothing in my hands I bring
-:PROPERTIES:
-:EXPORT_FILE_NAME: nothing_in_hands
-:EXPORT_DATE: 2025-10-16
-:END:
-
++++
+title = "Nothing in my hands I bring"
+author = ["M. Anzorena"]
+date = 2025-10-16
+draft = false
++++
 
 Traducir un texto de un idioma a otra es una tarea compleja.
 A veces la traducción conlleva la pérdida de estructuras gramaticales o a falta de claridad.
@@ -33,26 +31,34 @@ Conectando con lo que mencioné al principio sobre la traducción de himnos, la 
 En particular, el texto que cita Spurgeon no se encuentra en la versión en español.
 El texto en cuestión es la tercera estrofa del himno (traducida torpemente por mi):
 
-#+BEGIN_CENTER
-/Nada traigo en mis manos;
+<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
+
+<div class="org-center">
+
+_Nada traigo en mis manos;
 solo a la cruz me aferro;
 tú que estás desnudo, ven a él para que te vista;
 tú que estás desesperado, busca en él la gracia;
 moribundo, corriendo voy a la fuente;
-limpiame oh mi redentor o moriré./
-#+END_CENTER
+limpiame oh mi redentor o moriré._
+
+</div>
 
 La razón del porqué la versión en español no contiene la estrofa a mi parecer es teológica, aunque solo especulo.
 Y especulo porque hay veces que la gracia de nuestro Dios a nuestros ojos parece tan inmensurable que nuestra humanidad no logra comprenderla en su profundidad;
 nos da temor y tratamos de esconderla.
 
-#+BEGIN_CENTER
-/No obstante esta dificultad, la cuarta estrofa del himno en español me parece sublime:
+<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
+
+<div class="org-center">
+
+_No obstante esta dificultad, la cuarta estrofa del himno en español me parece sublime:
 Cuando vaya a responder
 en Tu augusto tribunal,
 se mi escondedero fiel,
-Roca de la eternidad./
-#+END_CENTER
+Roca de la eternidad._
+
+</div>
 
 Hace unas semanas murió un miembro de mi familia.
 Un hombre que vivió una vida lleno de dolor, pena y vergüenza.
