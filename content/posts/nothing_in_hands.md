@@ -35,11 +35,11 @@ El texto en cuestión es la tercera estrofa del himno (traducida torpemente por 
 
 <div class="org-center">
 
-_Nada traigo en mis manos;
-solo a la cruz me aferro;
-tú que estás desnudo, ven a él para que te vista;
-tú que estás desesperado, busca en él la gracia;
-moribundo, corriendo voy a la fuente;
+_Nada traigo en mis manos;<br />
+solo a la cruz me aferro;<br />
+tú que estás desnudo, ven a él para que te vista;<br />
+tú que estás desesperado, busca en él la gracia;<br />
+moribundo, corriendo voy a la fuente;<br />
 limpiame oh mi redentor o moriré._
 
 </div>
@@ -52,10 +52,10 @@ nos da temor y tratamos de esconderla.
 
 <div class="org-center">
 
-_No obstante esta dificultad, la cuarta estrofa del himno en español me parece sublime:
-Cuando vaya a responder
-en Tu augusto tribunal,
-se mi escondedero fiel,
+_No obstante esta dificultad, la cuarta estrofa del himno en español me parece sublime:<br />
+Cuando vaya a responder<br />
+en Tu augusto tribunal,<br />
+se mi escondedero fiel,<br />
 Roca de la eternidad._
 
 </div>
