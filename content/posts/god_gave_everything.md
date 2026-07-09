@@ -1,10 +1,9 @@
-#+hugo_base_dir: ~/Documentos/ryojin_desu
-
-* God gave me everything (a warning)
-:properties:
-:export_file_name: god_gave_everything
-:export_date: 2026-07-09
-:end:
++++
+title = "God gave me everything (a warning)"
+author = ["M. Anzorena"]
+date = 2026-07-09
+draft = false
++++
 
 Con la llegada del milenio, llegó mi entrada a la preparatoria.
 Y con la llegada de la educación preparatoria comenzó la lucha incesante de ideas y argumentos.
@@ -26,7 +25,7 @@ Desde luego este razonamiento es muy pobre, pero era todo a lo que mi cerebro de
 A inicios del milenio, la mayor influencia que teníamos los jóvenes de mi edad era la industria de la Musica y MTV.
 El internet ya estaba ahí, poco a poco descentralizando nuestros gustos musicales, pero la hegemonía aún pertenecía a la gran corporación televisiva.
 Era así que todos los días regresaba a casa de le escuela y almorzaba; para luego enchufarme a la televisión, buscando estar actualizado en las tendencias musicales.
-Y fue así que descubrí la canción /God gave me everything/ de Mick Jagger.
+Y fue así que descubrí la canción _God gave me everything_ de Mick Jagger.
 
 En medio de mi cruzada contra la ignorancia del mundo, en aquel tiempo solo puse atención al titulo y coro de la canción; los cuales mencionan a Dios y eso era
 suficiente para cubrir mi necesidad de certeza.
@@ -34,10 +33,12 @@ Evidencias de una vida espiritual muy pobre.
 
 Más allá de esto, la canción presenta un argumento interesante que quiero analizar; ademas es fácil de entender y comprobar.  Lo podemos enunciar de la siguiente manera:
 
-#+begin_verse
-/Si todo lo que me propongo lo consigo, esto se debe a que Dios me permitió conseguirlo.
-Luego entonces, si me permite conseguir lo que quiero, es porque tengo su aprobación./
-#+end_verse
+<div class="verse">
+
+_Si todo lo que me propongo lo consigo, esto se debe a que Dios me permitió conseguirlo.<br />
+Luego entonces, si me permite conseguir lo que quiero, es porque tengo su aprobación._<br />
+
+</div>
 
 Esta manera de ver la fe es tan vieja como el libro de Job y también sitúa nuestra experiencia como la máxima medida de la verdad.
 En este caso son las bendiciones o providencia de Dios las que establecen la prueba; llevándonos a suponer la relación éxito/riqueza con la cercanía a Dios
@@ -49,7 +50,7 @@ el fracaso de los mismos. Es decir, lo hijos de Dios estamos sujetos a la discip
 Al otro lado del espectro, el impío experimenta solo el juicio divino (aunque para ellos también hay providencia, pero ese es otro tema),
 sin conocer nunca el amor, cuidado y disciplina del Señor.
 Luego entonces, si no hay disciplina, nadie los detiene en su perversiones, y en apariencia prosperan en sus obras, cuando en realidad van camino a su destrucción.
-Es por esta razón que a veces los Cristianos enfrentamos la realidad del /fracaso/, mientras que los que no temen a Dios prosperan.
+Es por esta razón que a veces los Cristianos enfrentamos la realidad del _fracaso_, mientras que los que no temen a Dios prosperan.
 Simplemente estamos siendo testigos del amor de nuestro Padre, al mismo tiempo que el necio recibe su desprecio.
 
 Durante mi caminar en la vida me he topado con personas que parecen recibir todo lo que sueñan.
