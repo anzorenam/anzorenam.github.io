@@ -35,8 +35,10 @@ Más allá de esto, la canción presenta un argumento interesante que quiero ana
 
 <div class="verse">
 
-_Si todo lo que me propongo lo consigo, esto se debe a que Dios me permitió conseguirlo.<br />
-Luego entonces, si me permite conseguir lo que quiero, es porque tengo su aprobación._<br />
+_Si todo lo que me propongo lo consigo,<br />
+esto se debe a que Dios me permitió conseguirlo.<br />
+Luego entonces, si me permite conseguir lo que quiero,<br />
+es porque tengo su aprobación._<br />
 
 </div>
 

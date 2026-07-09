@@ -35,8 +35,10 @@ Evidencias de una vida espiritual muy pobre.
 Más allá de esto, la canción presenta un argumento interesante que quiero analizar; ademas es fácil de entender y comprobar.  Lo podemos enunciar de la siguiente manera:
 
 #+begin_verse
-/Si todo lo que me propongo lo consigo, esto se debe a que Dios me permitió conseguirlo.
-Luego entonces, si me permite conseguir lo que quiero, es porque tengo su aprobación./
+/Si todo lo que me propongo lo consigo,
+esto se debe a que Dios me permitió conseguirlo.
+Luego entonces, si me permite conseguir lo que quiero,
+es porque tengo su aprobación./
 #+end_verse
 
 Esta manera de ver la fe es tan vieja como el libro de Job y también sitúa nuestra experiencia como la máxima medida de la verdad.
