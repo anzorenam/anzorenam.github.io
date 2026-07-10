@@ -29,7 +29,7 @@ Y fue así que descubrí la canción _God gave me everything_ de Mick Jagger.
 
 En medio de mi cruzada contra la ignorancia del mundo, en aquel tiempo solo puse atención al titulo y coro de la canción; los cuales mencionan a Dios y eso era
 suficiente para cubrir mi necesidad de certeza.
-Evidencias de una vida espiritual muy pobre.
+Evidencia de una vida espiritual muy pobre.
 
 Más allá de esto, la canción presenta un argumento interesante que quiero analizar; ademas es fácil de entender y comprobar.  Lo podemos enunciar de la siguiente manera:
 
@@ -58,12 +58,12 @@ Simplemente estamos siendo testigos del amor de nuestro Padre, al mismo tiempo q
 Durante mi caminar en la vida me he topado con personas que parecen recibir todo lo que sueñan.
 Logran pasar sobre todos sus enemigos, sin ellos tener nunca escrúpulos; sin importarles ninguna regla, ni importarles dañar a alguien más.
 Manipulan a todos y engañan a todos, pero pareciera que la justicia de Dios nunca los alcanza.
-Al ver a esta situación, a veces ha nacido en mi corazón amargura; sin llegar a entender en verdad el amor y misericordia de Dios.
+Al ver a esta situación, a veces ha nacido amargura en mi corazón; sin llegar a entender en verdad el amor y misericordia de Dios.
 Porque el aparente fracaso en nuestro día a día se debe muchas veces a que conocemos al hijo de Dios y él dirige nuestros pasos:
 no de acuerdo a nuestra opinión o deseos, sino con base en su infinita sabiduría.
 
 Regresando al tema de la canción, podemos hacer una advertencia (a Mick Jagger): si crees que Dios te ha todo, pero no has conocido de su hijo, tal vez en tu futuro solo te espera
 la vergüenza de encontrarte desnudo delante de él.
-De acuerdo con el Salmo 73 la prosperidad del malo solo trae su fin.
+Tomando como referencia las palabras de Asaf en el Salmo 73; la prosperidad de los malos solo traen su fin.
 Por supuesto, al escribir respecto a este tema, lo hago con un profundo temor de Dios, dado que es algo muy severo hablar de la condenación de alguna persona.
-Pero la Fe Cristiana me ha enseñado que la verdad de Dios no solo está en las experiencias vividas, sino en todo aquello que la palabra su Palabra nos revela.
+Pero la Fe Cristiana me ha enseñado que la verdad de Dios no solo está en las experiencias vividas, sino en todo aquello que la Palabra de Dios nos revela.
