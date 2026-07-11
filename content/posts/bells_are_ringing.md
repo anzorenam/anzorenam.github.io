@@ -5,7 +5,8 @@ date = 2026-01-05
 draft = false
 +++
 
-Separado de ti nada puedo hacer. Tu eres la vid verdadera.
+**Separado de ti nada puedo hacer. Tu eres la vid verdadera.**
+
 La adolescencia es un  golpe duro al ego y a los sentidos.
 De repente uno es un niño y se preocupa por jugar, alimentarse; al otro día despiertan pasiones y sensaciones.
 
@@ -69,6 +70,4 @@ Pero el hijo de Dios vino ha deshacer las obras del mal, a rescatar lo que se ha
 El hijo de Dios vino a traer el amanecer en lo más profundo de nuestras tinieblas.
 En la carne, tomó todos nuestros pecados y soportó la ira del Dios vivo: en la cruz fue maldito, pero resucito.
 
-Separado de ti oh mi Cristo, nada puedo hacer.
-Tu eres la vid verdadera.
-Tu nos escogiste y no nosotros a ti.
+**Separado de ti oh mi Cristo, nada puedo hacer. Tu eres la vid verdadera. Tu nos escogiste y no nosotros a ti.**

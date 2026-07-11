@@ -1,10 +1,10 @@
 #+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
 
 * Of Proton decays and God
-:PROPERTIES:
-:EXPORT_FILE_NAME: proton_decays
-:EXPORT_DATE: 2026-02-05
-:END:
+:properties:
+:export_file_name: proton_decays
+:export_date: 2026-02-05
+:end:
 
 La inducción matemática es un concepto simple pero muy poderoso.
 Supongamos que nuestro objetivo es demostrar una cierta proposición matemática.

@@ -42,7 +42,7 @@ intuición y perspicacia.
 Usando la intuición, la verdad queda velada por prejuicios y destinada a las construcciones sociales.
 Acuerdos a los que hemos llegado los integrantes de una sociedad para establecer un consenso, sin hacer preguntas que puedan incomodarnos.
 
-Y es aquí donde debo ser sincero y confesar: aunque nuestra preparato-riana filosofía de la Historia era auténtica y necesaria; aunque era una genuina aspiración humana
+Y es aquí donde debo ser sincero y confesar: aunque nuestra _preparatoriana_ filosofía de la Historia era auténtica y necesaria; aunque era una genuina aspiración humana
 y teníamos todo el derecho de hacerla (e incluso diría que responsabilidad), carecía de una característica fundamental: honestidad.
 De la misma manera que Saúl Hernandez y muchos mexicanos no somos honestos: porque no estamos comprometidos con la verdad y los hechos, sino con el consenso.
 

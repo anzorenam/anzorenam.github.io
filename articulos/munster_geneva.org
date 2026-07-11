@@ -1,10 +1,10 @@
 #+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
 
 * From Münster to Geneva
-:PROPERTIES:
-:EXPORT_FILE_NAME: munster_geneva
-:EXPORT_DATE: 2026-04-16
-:END:
+:properties:
+:export_file_name: munster_geneva
+:export_date: 2026-04-16
+:end:
 
 Regresando por la noche a casa, después de un largo día de trabajo y un desgastante trayecto en el transporte público de la Ciudad de México; llegué a aquel pequeño
 pueblo donde vivía a las afueras de la ciudad.

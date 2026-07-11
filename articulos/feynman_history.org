@@ -1,10 +1,10 @@
 #+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
 
 * Like Feynman preaching history
-:PROPERTIES:
-:EXPORT_FILE_NAME: feynman_history
-:EXPORT_DATE: 2026-02-26
-:END:
+:properties:
+:export_file_name: feynman_history
+:export_date: 2026-02-26
+:end:
 
 La ciencia es la empresa humana que intenta establecer mediante argumentos lógicos y ordenados las principios que dan origen a los fenómenos naturales y sociales que observamos.
 Las teorías deben ser rigurosas y capaces de explicar los diversos aspectos asociados a un fenómeno dado.

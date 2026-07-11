@@ -1,10 +1,10 @@
 #+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
 
 * Alfonso II
-:PROPERTIES:
-:EXPORT_FILE_NAME: alfonso_p02.org
-:EXPORT_DATE: 2026-05-30
-:END:
+:properties:
+:export_file_name: alfonso_p02.org
+:export_date: 2026-05-30
+:end:
 
 Como aves que se apresuran a las redes, así caminaban aquellos jóvenes, sin saber que van contra su vida; así caminaban hasta que las saetas del cazador traspasaron su corazón.
 Y en la casa de Don Abundio las presas eran muchas, pero todas están ciegas, eran necias o estaban adormecidas.
@@ -35,14 +35,32 @@ Pasaron algunos meses y Alfonso empezó a notar que bajada de intensidad su expe
 La comida empezaba a aburrirlo y los juegos siempre eran similares: las conversaciones eran las mismas, las mismas risas. Siempre llegaba a la media noche a su casa y no conseguía dormir.
 Unos días después comenzó a notar que al regresar de las fiestas, se quedaba con hambre.
 
-Don Abundio rápidamente percibió la pérdida de interés de Alfonso y otros jóvenes en la fiesta y decidió solucionar el problema. Durante años, había mantenido ese lugar lleno de personas y sabia perfectamente como mantenerlas entretenidas, sin que en ningún momento dejaran de ser felices. Ese mismo día al llegar los jóvenes de la escuela, Don Abundio subió con ellos por la escalera al segundo piso de la casa.
+Don Abundio rápidamente percibió la pérdida de interés de Alfonso y otros jóvenes en la fiesta y decidió solucionar el problema.
+Durante años, había mantenido ese lugar lleno de personas y sabia perfectamente como mantenerlas entretenidas, sin que en ningún momento dejaran de ser felices.
+Ese mismo día al llegar los jóvenes de la escuela, Don Abundio subió con ellos por la escalera al segundo piso de la casa.
 
-En el segundo piso había otro tipo de diversiones, diseñadas para todos aquellos jóvenes que ya no querían divertirse como infantes. Entre los asistentes de la fiesta circulaba la cerveza y el tabaco, la música era más estruendosa y sensual; las pantallas más brillantes y con películas más emocionantes. Los videojuegos más realistas. En resumen: una experiencia enriquecida.
+En el segundo piso había otro tipo de diversiones, diseñadas para todos aquellos jóvenes que ya no querían divertirse como infantes.
+Entre los asistentes de la fiesta circulaba la cerveza y el tabaco, la música era más estruendosa y sensual; las pantallas más brillantes y con películas más emocionantes.
+Los videojuegos más realistas. En resumen: una experiencia enriquecida.
 
-Alfonso empezó a subir todos los días al segundo piso de la mansión y al principio le agrado. Pero pronto empezó a notar que el olor repugnante que con tanto trabajo había ocultado, después de ocho horas de fiesta, volvía. Y volvía más desagradable, pues ahora era el olor de su miseria, la borrachera, y el tabaco. Así regresaba a su casa fastidiado del repugnante aroma; con sus ropas sucias, mucho sueño y sin poder dormir; y también con mucha hambre, pues durante todo el día no había probado bocado al estar ocupado en la diversión.
+Alfonso empezó a subir todos los días al segundo piso de la mansión y al principio le agrado.
+Pero pronto empezó a notar que el olor repugnante que con tanto trabajo había ocultado, después de ocho horas de fiesta, volvía.
+Y volvía más desagradable, pues ahora era el olor de su miseria, la borrachera, y el tabaco.
+Así regresaba a su casa fastidiado del repugnante aroma; con sus ropas sucias, mucho sueño y sin poder dormir; y también con mucha hambre, pues durante todo el día no había probado
+bocado al estar ocupado en la diversión.
 
-Una noche regresando a su casa, cruzó por su mente un pensamiento. Era la primera vez en mucho tiempo que algo así sucedía, pero por un instante notó que no era feliz. Venia embriagado de alcohol, caminando dando tumbos por la calle. Al llegar a su pobre casa se derrumbó en el suelo y entre llanto y vómito quedó dormido por unos treinta minutos. Pasado este tiempo, lo despertó el asqueroso olor que provenía de su boca.
+Una noche regresando a su casa, cruzó por su mente un pensamiento.
+Era la primera vez en mucho tiempo que algo así sucedía, pero por un instante notó que no era feliz.
+Venia embriagado de alcohol, caminando dando tumbos por la calle.
+Al llegar a su pobre casa se derrumbó en el suelo y entre llanto y vómito quedó dormido por unos treinta minutos.
+Pasado este tiempo, lo despertó el asqueroso olor que provenía de su boca.
 
-Estando en el suelo, abrió los ojos y estiró su mano. Debajo de su cama sacó su preciosa moneda y la miró ilusionado. Una sonrisa se dibujó en cara, pero luego se ocultó de nuevo en la tristeza al recordar que no podía leerla. Sin embargo, el destello de aquellas letras doradas era tan grande que quedaron grabadas en su imaginación.
+Estando en el suelo, abrió los ojos y estiró su mano.
+Debajo de su cama sacó su preciosa moneda y la miró ilusionado.
+Una sonrisa se dibujó en cara, pero luego se ocultó de nuevo en la tristeza al recordar que no podía leerla.
+Sin embargo, el destello de aquellas letras doradas era tan grande que quedaron grabadas en su imaginación.
 
-Ahí en el suelo, en la más grande de la miseria, Alfonso repasaba la silueta de cada una de las letras de la moneda. Y entonces descubrió que podía entender un poco las primeras palabras de la inscripción: ¿no clama la sabiduría? Alfonso no conocía quién era esa mujer llamada Sabiduría, pero le pareció curioso el nombre. Pensó en esto un par de segundos y volvió a dormir.
+Ahí en el suelo, en la más grande de la miseria, Alfonso repasaba la silueta de cada una de las letras de la moneda.
+Y entonces descubrió que podía entender un poco las primeras palabras de la inscripción: ¿no clama la sabiduría?
+Alfonso no conocía quién era esa mujer llamada Sabiduría, pero le pareció curioso el nombre.
+Pensó en esto un par de segundos y volvió a dormir.

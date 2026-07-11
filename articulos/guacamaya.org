@@ -1,10 +1,10 @@
 #+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
 
 * Pobre guacamaya
-:PROPERTIES:
-:EXPORT_FILE_NAME: guacamaya
-:EXPORT_DATE: 2026-04-30
-:END:
+:properties:
+:export_file_name: guacamaya
+:export_date: 2026-04-30
+:end:
 
 No toda idea que pasa por la autopista de nuestra mente vale la pena de analizar.
 Algunas simplemente hay que dejarlas pasar, otras hay que enfrentarlas arduamente hasta vencerlas.

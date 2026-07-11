@@ -1,0 +1,29 @@
+#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
+
+* All dogs go to heaven
+:proporties:
+:export_file_name: dogs_go_to_heaven
+:export_date: 2026-07-11
+:end:
+
+Hace veinte años, una pequeña de tan solo cuatro me hizo la pregunta más difícil que se le puede hacer a un adulto:
+
+/¿Por qué veo en la calle perros sufriendo y ruego a Dios que los ayude y no pasa nada?/
+
+Yo, un joven cristiano de tal vez veinte años o más, no supe que contestar más que animarla a seguir orando.
+Tiempo después (tal vez una semana), la pequeña exclamó de alegría al no ver cachorros en el calle; creyendo inocentemente que su oración había sido respondida.
+
+Cada vez que recuerdo mi silencio en esta situación me avergüenzo al ver mi ignorancia y pasividad, así que pretendo corregir mis errores en estas lineas.
+
+La pregunta es difícil porque trastoca uno de los problemas más profundos que trata de resolver la Filosofía, la Teología y perfora lo mas profundo de la psique humana:  el problema del mal.
+
+, de comenzar un viaje hacia el infinito, : como salte de perros sufriendo a problemas filosóficos? Es simple, para una pequena en el nucleo de una familia cristiana e
+
+
+
+Usualmente el problema se puede plantear a través de la siguiente paradoja (de acuerdo con la Wikipedia):
+
+Si Dios quiere prevenir el mal, pero no es capaz entonces no es omnipotente.
+Si es capaz, pero no desea hacerlo; entonces es malévolo.
+Si es capaz y desea hacerlo, ¿de dónde surge entonces el mal?
+Si no es capaz ni desea hacerlo, entonces, ¿por qué llamarlo Dios?
