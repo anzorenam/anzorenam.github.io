@@ -5,3 +5,10 @@
 :export_file_name: even_kant
 :export_date: 2026-07-13
 :end:
+
+El mundo de la ciencia y la investigación está lleno de discusiones.
+A veces divertidas, en ocasiones con mucha pasión; por momentos también aburridas y sin sentido, una buena parte de la vida académica se lleva a cabo discutiendo.
+Y el objetivo de dichas discusiones tiene un espectro muy amplio.
+En ocasiones, estas buscan aclarar malos entendidos o sirven como punto de partida para discutir un nuevos temas.
+Otras tantas, las discusiones son
+las discusiones simplemente se orquestan por la satisfacer el ego de los participantes y p
