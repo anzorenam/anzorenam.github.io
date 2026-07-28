@@ -3,12 +3,21 @@
 * ... even though I try, I Kant
 :properties:
 :export_file_name: even_kant
-:export_date: 2026-07-13
+:export_date: 2026-07-29
 :end:
 
 El mundo de la ciencia y la investigación está lleno de discusiones.
 A veces divertidas, en ocasiones con mucha pasión; por momentos también aburridas y sin sentido, una buena parte de la vida académica se lleva a cabo discutiendo.
 Y el objetivo de dichas discusiones tiene un espectro muy amplio.
-En ocasiones, estas buscan aclarar malos entendidos o sirven como punto de partida para discutir un nuevos temas.
-Otras tantas, las discusiones son
-las discusiones simplemente se orquestan por la satisfacer el ego de los participantes y p
+De vez en cuando, éstas buscan aclarar malos entendidos o sirven como punto de partida para discutir nuevos temas.
+Otras tantas, las discusiones simplemente se orquestan para la satisfacer el ego de los participantes y buscar a la persona que gane el argumento.
+Algo similar al último caso que menciono, es lo que inició una discusión con mis colegas hacen ya algunos años, sobre el uso de la palabra /cuantización/.
+
+Comencemos por definir.
+Cuantizar es el proceso de convertir un valor continuo a uno discreto, sin más complejidad en la definición.
+No obstante lo sencillo de la idea, ésta produjo una revolución científica cuando se introdujo para describir el comportamiento de la luz en el efecto fotoeléctrico.
+Dado que por más de un siglo el uso más de la palabra /cuantizar/ fue para hacer referencia a un fenómeno físico particular; muchos Físicos argumentan que la palabra les pertenece
+a ellos, lo cual es absurdo.
+De esto se trataba la discusión entre mis colegas y yo aquel día, de como ellos eran dueños de la palabra y yo no, por ser un mero estudiante.
+Irónicamente, más de diez años después y en pleno desarrollo de una nueva (/posible/) revolución tecnológica; muchos asocian el término /cuantizar/ con al de computación,
+sin importarles su origen Físico.
