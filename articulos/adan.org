@@ -1,0 +1,13 @@
+#+hugo_base_dir: ~/Documentos/ryojin_desu
+
+* Adán
+:properties:
+:export_file_name: adan
+:export_date: 2026-08-31
+:end:
+
+Desperte a un nuevo dia, para trabajar y vivir trabajando.
+Mientras el tierra sigue produciendo espinos y cardos,
+Las gotas de sudor recorren mi frente.
+Y el Sol abrasador quema mi piel,
+mi boca
