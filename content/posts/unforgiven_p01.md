@@ -29,7 +29,7 @@ Luego entonces tenía que escuchar con mucha atención lo que el Pastor devalaba
 Pasamos varias semanas estudiando los pasajes para lograr desenredar los misterios que Pablo exponía en su carta (debo confesar que aun hoy en día considero esos pasajes complicados),
 hasta que la tensión llegó a su máximo cuando Pablo exclama en el versículo 24:
 
-¡Miserable de mí! ¿Quién me libertará de este cuerpo de muerte?
+_¡Miserable de mí! ¿Quién me libertará de este cuerpo de muerte?_
 
 Después de ese signo de interrogación está la respuesta, pensaba yo en mis interiores.
 Y de pronto Pablo corta ahí el texto, da gracias al señor Jesucristo y nos habla del nuevo nacimiento, o al menos eso parece.

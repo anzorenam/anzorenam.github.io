@@ -1,10 +1,9 @@
-#+hugo_base_dir: ~/Documentos/ryojin_desu
-
-* The Unforgiven II
-:properties:
-:export_file_name: unforgiven_p02
-:export_date: 2026-09-01
-:end:
++++
+title = "The Unforgiven II"
+author = ["M. Anzorena"]
+date = 2026-09-01
+draft = false
++++
 
 Tenia veintidós años, cuando un Martes a las siete de la mañana entré a un salón de clases en la Universidad Nacional Autónoma de México.
 La clase era sobre Costos y evaluación de proyectos (Contaduría), y para un grupo de futuros Ingenieros era la clase más horrible que podíamos llevar.
@@ -16,13 +15,13 @@ aquella que empezó en el estacionamiento de una casa y cuyo pastor era un hombr
 Habían pasado ya cerca de tres años desde el comienzo de aquella Iglesia y las enseñanzas de este hombre se había vuelto completamente distorsionadas, dejando atrás los principios básicos
 de la vida cristiana, para convertirse en una especie de mezcla entre ocultismo/espiritismo y clases de superación personal.
 
-Joven y torpe a mis veintidós años, yo seguía al pie de la letra las enseñanzas del auto-proclamado /Apóstol/, para luego enfrentarme a la cruda realidad de que no servían para nada.
-Fue así como pasé varios años esperando que mi /intensa/ y /emocionante/ vida espiritual revirtiera los efectos de mi pasada y lasciva adolescencia.
-La describo como /intensa/ y /emotiva/, porque esa era su principal característica; ya que no provenía de ningún estudio profundo de la Palabra de Dios, sino solo
+Joven y torpe a mis veintidós años, yo seguía al pie de la letra las enseñanzas del auto-proclamado _Apóstol_, para luego enfrentarme a la cruda realidad de que no servían para nada.
+Fue así como pasé varios años esperando que mi _intensa_ y _emocionante_ vida espiritual revirtiera los efectos de mi pasada y lasciva adolescencia.
+La describo como _intensa_ y _emotiva_, porque esa era su principal característica; ya que no provenía de ningún estudio profundo de la Palabra de Dios, sino solo
 sensaciones que llegan un Domingo por la mañana, para después desvanecerse el resto de la semana.
-La muy /emotiva/ alabanza me llenaba de /dopamina/, las platicas motivacionales del pastor me sugestionaban para aspirar a una vida de santidad
-(/el secreto para dejar atrás el pecado es esforzarnos mucho para portarnos bien y entonces dejar atrás el pecado/)
-y para rematar; la sesión de guerra espiritual/liberación me convencía que todo aquello tenia un trasfondo /místico/ y /elevado/.
+La muy _emotiva_ alabanza me llenaba de _dopamina_, las platicas motivacionales del pastor me sugestionaban para aspirar a una vida de santidad
+(_el secreto para dejar atrás el pecado es esforzarnos mucho para portarnos bien y entonces dejar atrás el pecado_)
+y para rematar; la sesión de guerra espiritual/liberación me convencía que todo aquello tenia un trasfondo _místico_ y _elevado_.
 Es decir, yo dejaba aquella reunión convencido de haber experimentado la obra del Espíritu Santo, sin embargo estaba muy equivocado.
 
 Creo que al exponer, es muy claro que en mi vida yo seguía experimentado fracaso tras fracaso en mi lucha contra el pecado; acumulando solo frustración, dolor y vergüenza;
@@ -31,11 +30,13 @@ mientras todos los Domingos me vendían la promesa de un cambio repentino.
 Fue en esta condición cuando aquel Martes a las siete de la mañana, sumergido en mis pensamientos y pensado en cualquier cosa banal de la vida;
 entrando al salón de clases, un versículo vino a mi mente:
 
-#+begin_verse
-/En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos,
-y renovaos en el espíritu de vuestra mente,
-y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad./
-#+end_verse
+<div class="verse">
+
+_En cuanto a la pasada manera de vivir, despojaos del viejo hombre, que está viciado conforme a los deseos engañosos,<br />
+y renovaos en el espíritu de vuestra mente,<br />
+y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la verdad._<br />
+
+</div>
 
 E inmediatamente quedé paralizado porque no supe como aplicar ese verdad a mi vida.
 Por supuesto, yo entendía que de alguna manera ese texto tenia relación con lo que el Apóstol Pablo explicaba en los capítulos siete y ocho de Romanos,
@@ -43,7 +44,7 @@ pero el cómo entender esa relación aún era un misterio para mi.
 
 Retomando lo que yo había expuesto anteriormente en este espacio acerca de la carta a los Romanos, el Apóstol Pablo describe una problema similar al que
 yo experimentaba en mi vida cotidiana a mis veintidós años.
-Según sus palabras, en cada hijo de Dios existe una lucha interna entre lo que se /debe/ hacer motivado por el Espíritu y lo que /hacemos/ impulsados por los deseos de la carne.
+Según sus palabras, en cada hijo de Dios existe una lucha interna entre lo que se _debe_ hacer motivado por el Espíritu y lo que _hacemos_ impulsados por los deseos de la carne.
 Dado que la descripción en estos versículos está en primera persona, podemos concluir que el Apóstol está describiendo la lucha y contradicciones propias de su alma;
 al desear al mismo tiempo complacer la voluntad de Dios, pero encontrarse con la limitante del pecado que mora en sus miembros.
 
@@ -53,7 +54,7 @@ Esa es la forma más natural y sencilla de entender la Palabra; y la Palabra es 
 
 Considerando lo anterior, la conclusión a la que debemos llegar es a la misma que Martín Lutero; los Cristianos somos justos y pecadores al mismo tiempo.
 O dicho de otra forma, tenemos que vivir en esta lucha hasta que nuestras fuerzas se acaben y veamos la victoria en la otra vida.
-Mientras tanto, agradecemos como el Apóstol por la gracia de nuestro Señor Jesucristo (capitulo $7$ versículo $25$).
+Mientras tanto, agradecemos como el Apóstol por la gracia de nuestro Señor Jesucristo (capitulo \\(7\\) versículo \\(25\\)).
 Porque por medio de esa gracia hemos sido reconciliados con el Padre y ya no hay ninguna condenación para nosotros.
 
 De este manera, la realidad de la vida Cristiana es mucho más compleja que lo que el mal llamado Apóstol de aquella Iglesia exponía.
@@ -79,8 +80,10 @@ Como cualquier buen deportista, al practicar constantemente nuestra disciplina, 
 se van volviendo parte de nuestra vida; convirtiéndonos en expertos en amor, fe y verdad.
 De tal manera nos vamos vistiendo del nuevo hombre, mortificando al pecado con cada paso en nuestras vidas, hasta que podemos decir de con alegria:
 
-#+begin_verse
-/Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí;
-y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios,
-el cual me amó y se entregó a sí mismo por mí./
-#+end_verse
+<div class="verse">
+
+_Con Cristo estoy juntamente crucificado, y ya no vivo yo, mas vive Cristo en mí;<br />
+y lo que ahora vivo en la carne, lo vivo en la fe del Hijo de Dios,<br />
+el cual me amó y se entregó a sí mismo por mí._<br />
+
+</div>
