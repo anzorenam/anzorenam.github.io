@@ -24,7 +24,7 @@ La muy _emotiva_ alabanza me llenaba de _dopamina_, las platicas motivacionales 
 y para rematar; la sesión de guerra espiritual/liberación me convencía que todo aquello tenia un trasfondo _místico_ y _elevado_.
 Es decir, yo dejaba aquella reunión convencido de haber experimentado la obra del Espíritu Santo, sin embargo estaba muy equivocado.
 
-Creo que al exponer, es muy claro que en mi vida yo seguía experimentado fracaso tras fracaso en mi lucha contra el pecado; acumulando solo frustración, dolor y vergüenza;
+Creo que al exponer esta situación, es muy claro que en mi vida yo seguía experimentado fracaso tras fracaso en mi lucha contra el pecado; acumulando solo frustración, dolor y vergüenza;
 mientras todos los Domingos me vendían la promesa de un cambio repentino.
 
 Fue en esta condición cuando aquel Martes a las siete de la mañana, sumergido en mis pensamientos y pensado en cualquier cosa banal de la vida;
@@ -38,14 +38,14 @@ y vestíos del nuevo hombre, creado según Dios en la justicia y santidad de la 
 
 </div>
 
-E inmediatamente quedé paralizado porque no supe como aplicar ese verdad a mi vida.
+Inmediatamente quedé paralizado, porque no supe como aplicar ese verdad a mi vida.
 Por supuesto, yo entendía que de alguna manera ese texto tenia relación con lo que el Apóstol Pablo explicaba en los capítulos siete y ocho de Romanos,
 pero el cómo entender esa relación aún era un misterio para mi.
 
 Retomando lo que yo había expuesto anteriormente en este espacio acerca de la carta a los Romanos, el Apóstol Pablo describe una problema similar al que
 yo experimentaba en mi vida cotidiana a mis veintidós años.
-Según sus palabras, en cada hijo de Dios existe una lucha interna entre lo que se _debe_ hacer motivado por el Espíritu y lo que _hacemos_ impulsados por los deseos de la carne.
-Dado que la descripción en estos versículos está en primera persona, podemos concluir que el Apóstol está describiendo la lucha y contradicciones propias de su alma;
+Según sus palabras, en cada hijo de Dios existe una lucha interna entre lo que _debemos_ hacer motivados por el Espíritu y lo que _hacemos_ impulsados por los deseos de la carne.
+Dado que la descripción en estos versículos está en primera persona, podemos concluir que el Apóstol está describiendo la lucha y contradicciones en su alma que él estaba enfrentando;
 al desear al mismo tiempo complacer la voluntad de Dios, pero encontrarse con la limitante del pecado que mora en sus miembros.
 
 Como ya expliqué con anterioridad, el hecho que el texto esté en primera persona y en tiempo presente es muy importante, ya que es la clave para entender que Pablo debe estar hablando
@@ -54,8 +54,10 @@ Esa es la forma más natural y sencilla de entender la Palabra; y la Palabra es 
 
 Considerando lo anterior, la conclusión a la que debemos llegar es a la misma que Martín Lutero; los Cristianos somos justos y pecadores al mismo tiempo.
 O dicho de otra forma, tenemos que vivir en esta lucha hasta que nuestras fuerzas se acaben y veamos la victoria en la otra vida.
-Mientras tanto, agradecemos como el Apóstol por la gracia de nuestro Señor Jesucristo (capitulo \\(7\\) versículo \\(25\\)).
-Porque por medio de esa gracia hemos sido reconciliados con el Padre y ya no hay ninguna condenación para nosotros.
+Ese es el punto que expone el Apóstol Pablo en el versículo 25 del capitulo siete; no está cambiando de tema, ni evadiendo el problema;
+sino que una vez que nos lleva al máximo de tensión de la lucha en nosotros, debemos voltear a ver la cruz de Cristo para encontrar respuestas.
+Por lo tanto, debemos agradecer la gracia extendida por nuestro para nosotros por Cristo Jesús,
+porque por medio de esa gracia hemos sido reconciliados con el Padre y ya no hay ninguna condenación para nosotros.
 
 De este manera, la realidad de la vida Cristiana es mucho más compleja que lo que el mal llamado Apóstol de aquella Iglesia exponía.
 Y es compleja por que pone al frente de nosotros nuestra total dependencia de Dios y la realidad de nuestra naturaleza pecaminosa.
@@ -64,7 +66,7 @@ Pero también trae paz y descanso porque hemos sido redimidos por el sacrificio 
 Aceptar estos hechos es fundamental para la vida del Cristiano, pero también debemos proseguir en la santificación.
 Porque en vista de tan grande gracia derramada sobre nosotros, no podemos responder con simple apatía y desobediencia.
 El Espíritu Santo de Dios nos llama por lo tanto a la santificación de nuestras vidas, para presentarlas como un sacrificio grato a Dios.
-Un sacrificio en agradecimiento, de adoración y servicio; no como pago por la salvación, sino en acción de gracias.
+Un sacrificio en agradecimiento, de adoración y servicio; no como pago por la salvación, no como pago por nuestras ofensas, sino en acción de gracias.
 
 Esa es la verdadera obra del Espíritu en nuestras vidas.
 
@@ -76,9 +78,9 @@ Y al renovarse la mente, los deseos de nuestro corazón son primero expuestos an
 transformados de manera genuina por la acción del Espíritu en nuestra mente y corazón.
 Es una obra que dura toda nuestra vida, pero que glorifica a Dios porque no es a través de voluntad humana, sino por su infinito poder
 y misericordia.
-Como cualquier buen deportista, al practicar constantemente nuestra disciplina, las obras de justicia que antes nos parecían imposibles,
+Luego entonces, como cualquier buen deportista, al practicar constantemente nuestra disciplina, las obras de justicia que antes nos parecían imposibles,
 se van volviendo parte de nuestra vida; convirtiéndonos en expertos en amor, fe y verdad.
-De tal manera nos vamos vistiendo del nuevo hombre, mortificando al pecado con cada paso en nuestras vidas, hasta que podemos decir de con alegria:
+De tal manera nos vamos vistiendo del nuevo hombre, mortificando al pecado a cada paso, hasta que podemos decir con alegria:
 
 <div class="verse">
 
