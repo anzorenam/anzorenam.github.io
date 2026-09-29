@@ -1,16 +1,15 @@
-#+HUGO_BASE_DIR: ~/Documentos/ryojin_desu
++++
+title = "Alfonso II"
+author = ["M. Anzorena"]
+date = 2026-08-30
+draft = false
++++
 
-* Alfonso II
-:properties:
-:export_file_name: alfonso_p02.org
-:export_date: 2026-08-30
-:end:
-
-/Como aves que se apresuran a las redes, así caminaban aquellos jóvenes, sin saber que van contra su vida; así caminaban hasta que las saetas del cazador traspasaron su corazón./
+_Como aves que se apresuran a las redes, así caminaban aquellos jóvenes, sin saber que van contra su vida; así caminaban hasta que las saetas del cazador traspasaron su corazón._
 Y en la casa de Don Abundio las presas eran muchas: todas ellas ciegas, necias o adormecidas.
 Era una casa llena de habitaciones, donde la luz del día nunca penetra; y sin embargo parece que nadie anda a oscuras.
 Y por todas partes se escucha música, conversaciones y risas; hay comida deliciosa y bebida.
-Aun desde muy lejos de la casa se percibe la alegría; /las redes ya están tendidas, las aves pronto caerán y perderán sus alas./
+Aun desde muy lejos de la casa se percibe la alegría; _las redes ya están tendidas, las aves pronto caerán y perderán sus alas._
 
 Ahí de pie frente a todo el estallido de fiesta se encontraba el pequeño Alfonso y no podía ocultar su felicidad.
 Sentía, que al haber vivido en tanta miseria, por fin la suerte le sonreía y podía gozar de su vida.

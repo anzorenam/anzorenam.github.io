@@ -3,7 +3,7 @@
 * Adán
 :properties:
 :export_file_name: adan
-:export_date: 2026-09-02
+:export_date: 2026-09-30
 :end:
 
 Desperté a un nuevo día, para trabajar y vivir trabajando.
@@ -15,9 +15,10 @@ con dolor veo los frutos de la cosecha.
 Maldito estoy en este tierra,
 y maldito ha sido todo lo que me rodea.
 Golpeo con fuerza el suelo para extraer su producto,
-sin entender, que al suelo voy y del suelo vengo.
+sin entender que al suelo voy y del suelo vengo.
 
-El Sol intenso castiga mi piel, las gotas de sudor llenan mi rostro,
+El Sol intenso castiga mi piel,
+las gotas de sudor llenan mi rostro,
 luego a mi alrededor dejando una huella.
 Un sabor amargo se siente en la garganta,
 y mis labios anhelan el fresco dulzor del agua.
