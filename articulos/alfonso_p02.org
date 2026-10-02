@@ -3,7 +3,7 @@
 * Alfonso II
 :properties:
 :export_file_name: alfonso_p02.org
-:export_date: 2026-10-03
+:export_date: 2026-10-02
 :end:
 
 /Como aves que se apresuran a las redes, así caminaban aquellos jóvenes, sin saber que iban contra su vida; así caminaban hasta que las saetas del cazador traspasaron su corazón./

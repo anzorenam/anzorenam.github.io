@@ -1,7 +1,7 @@
 +++
 title = "Alfonso II"
 author = ["M. Anzorena"]
-date = 2026-10-03
+date = 2026-10-02
 draft = false
 +++
 
